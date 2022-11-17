@@ -15,15 +15,9 @@ public class PlayerController : MonoBehaviour{
         float directionX = _rb2d.velocity.x + Input.GetAxis("Horizontal") * _moveSpeed * Time.deltaTime;
 
         _rb2d.velocity = new Vector2(directionX, _rb2d.velocity.y);        
-
-        UpdateRotation();
     }
 
     private void FixedUpdate() {
         _rb2d.AddForce(transform.up * Input.GetAxis("Vertical") * _moveSpeed * Time.deltaTime , ForceMode2D.Impulse);    
-    }
-
-    private void UpdateRotation(){
-        
     }
 }

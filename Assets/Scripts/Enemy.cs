@@ -62,7 +62,5 @@ public class Enemy : MonoBehaviour{
         }
     }
 
-
-    enum State { Patroling, Following }
-    
+    enum State { Patroling, Following }    
 }
