@@ -263,6 +263,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -321,6 +329,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -431,6 +447,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -644,6 +668,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -824,6 +856,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -888,6 +928,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -951,6 +999,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1023,7 +1079,6 @@ MonoBehaviour:
   m_Size: {x: 10, y: 10, z: 10}
   m_Center: {x: 0, y: 2, z: 0}
   m_LayerMask:
-    serializedVersion: 2
     m_Bits: 4294967295
   m_UseGeometry: 1
   m_OverrideByGrid: 0
@@ -1040,6 +1095,8 @@ MonoBehaviour:
   m_BuildHeightMesh: 0
   m_HideEditorLogs: 0
   m_NavMeshData: {fileID: 23800000, guid: eaec1c8ef40de43d498d5d4f059f91da, type: 2}
+  m_LastPosition: {x: -1.3272399, y: -4.671793, z: -0.04353005}
+  m_LastRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
 --- !u!4 &934286090 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7548421024736987232, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -1106,6 +1163,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -1164,6 +1229,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1224,6 +1297,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -1283,6 +1364,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -1341,6 +1430,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1442,6 +1539,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1580,6 +1685,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -1770,6 +1883,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -1869,8 +1990,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2024912287}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 1.3272399, y: -0.043530464, z: 4.6717935}
-  m_LocalScale: {x: 162.71562, y: 80.37088, z: 18.910797}
+  m_LocalPosition: {x: 3.0767, y: -0.0435, z: -3.5371}
+  m_LocalScale: {x: 73.07905, y: 37.82951, z: 18.910797}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 919320935}
@@ -2026,6 +2147,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -2157,6 +2286,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
@@ -2176,6 +2313,10 @@ PrefabInstance:
     - target: {fileID: 809475277831249008, guid: 0c49e2acd6904420381e08f208c9cbc4, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 809475277831249008, guid: 0c49e2acd6904420381e08f208c9cbc4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 809475277831249009, guid: 0c49e2acd6904420381e08f208c9cbc4, type: 3}
       propertyPath: m_RootOrder
@@ -2346,6 +2487,14 @@ PrefabInstance:
     - target: {fileID: 7548421024736987239, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
       propertyPath: m_Name
       value: Wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_Area
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7548421024736987244, guid: d4c7e4a7e2e0a402b9d3782d059dde60, type: 3}
+      propertyPath: m_OverrideArea
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
